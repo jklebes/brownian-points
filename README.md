@@ -1,7 +1,7 @@
 # brownian-points
 To practice your cell tracking algorithms on.
 
-Creates data in the style of ROI tables describing cells.
+Creates data in the style of ROI tables describing cells / blob objects.
 
 Simple: just brownian motion.  The number of cells is constant, except where they wander out of/into the image.
 
