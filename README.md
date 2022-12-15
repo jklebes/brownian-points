@@ -5,4 +5,4 @@ Creates data in the style of ROI tables describing cells.
 
 Simple: just brownian motion.  The number of cells is constant, except where they wander out of/into the image.
 
-Hard: Cells split, merge, are lost to tracking for one frame, and dissapear.
+Hard: Brownian motion, + cells split, appear, dissapear, or are skipped for one frame.
